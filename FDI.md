@@ -1,3 +1,5 @@
+FDI Data Analysis
+
 Foreign Direct Investments has always been a tedious subject to tackle, so I have tried to simplify it using the skills I have in Tableau. Below is the FDI shown using varies tools of Tableau. The most prominent one is the cluster view which segregates the investments in clusters depending upon a range of given capital investment. Every cluster is again classified into the specific sectors of FDIs. The tree map view gives us a proper visual of this. The tracking tool in Tableau helps us in track of FDIs over the span of 16 years and also predicts the trend for the following two years, which is very useful for planning purposes.
 
 Link to Tableau Dashboard https://public.tableau.com/views/FDIData_16161022501790/FDI?:language=en&:display_count=y&:origin=viz_share_link
