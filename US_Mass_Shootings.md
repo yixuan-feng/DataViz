@@ -1,4 +1,4 @@
-#Mass Shootings in US 
+Mass Shootings in US 
 
 It is my believe that knowing the cause of the problem is the one important thing and mass shooting is a very big problem which I think can be solved by carefully studying the past statistics. Below given statistics help us understand the trends in mass shooting. The map gives us the details of the incidents. The bar charts give us the information about the race of the shooter and also the headcount of the injured, victims and deaths.
 
