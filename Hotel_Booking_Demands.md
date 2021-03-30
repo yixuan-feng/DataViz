@@ -1,6 +1,6 @@
 # DataViz
 
-Link to the site:
+Link to the interactive dashboard:
 https://public.tableau.com/views/Hotel_Booking_16161732705340/Dashboard1?:language=en&:display_count=y&:origin=viz_share_link
 
 Tableau Dashboard
